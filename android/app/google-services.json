@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702600854463",
+    "project_id": "saveknee-6873a",
+    "storage_bucket": "saveknee-6873a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702600854463:android:01c21d85a9bb2e1aa93f0a",
+        "android_client_info": {
+          "package_name": "com.fci.saveknee.save_knee_23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702600854463-mrvcccnmrtqp3sqjbjmm7nrmspf8prit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSONDaaxDMcDKlMOlMsT1s8IObUc-ZfAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702600854463-mrvcccnmrtqp3sqjbjmm7nrmspf8prit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
